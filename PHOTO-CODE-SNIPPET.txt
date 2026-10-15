@@ -1,0 +1,7 @@
+The updated photo-card code is already installed in index.html. These are the three image paths it expects:
+
+photos/photo1.jpg
+photos/photo2.jpg
+photos/photo3.jpg
+
+To change captions, edit the <strong> and <small> text inside each <article class="memory"> in index.html.
